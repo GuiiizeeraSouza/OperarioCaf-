@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Pacifico&display=swap');
+.Catalago {
+    display: flex;
+    width: 231px;
+    height: 59.601px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    background: #5D3722;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center;
+    justify-content: flex-end;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.55));
+    
+}
+
+.TextButton {
+    text-decoration: none;
+    width: 164.85px;
+    height: 42.229px;
+    margin-left: -7px;
+    margin-top: 15px;
+    flex-shrink: 0;
+    color: antiquewhite;
+    font-family: "Lilita One", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.36px;
+}
+
+.LogoCatalago {
+    margin-left: -5px;
+    margin-top: 9px;
+    width: 84px;
+    height: 96.549px;
+    flex-shrink: 0;
+}
+
+.Catalago:hover {
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+.Catalago {
+    margin-left: 12vh;
+}

@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.InitialPage {
+    width: 100%;
+    height: 3914px;
+    background-color: antiquewhite;
+}

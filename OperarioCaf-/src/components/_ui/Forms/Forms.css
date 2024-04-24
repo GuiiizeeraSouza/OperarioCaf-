@@ -1,0 +1,83 @@
+.Forms {
+    width: 858.069px;
+    height: 679.496px;
+    flex-shrink: 0;
+    background-color: #4A2600;
+    border-radius: 50px;
+    margin: 260px;
+    margin-left: 55vh;
+    margin-top: -65vh;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.Title {
+    color: #EDDECF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: "Oleo Script Swash Caps";
+    font-size: 108px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 91.407%;
+    letter-spacing: -7.68px;
+    margin-top: 30px !important;
+}
+
+.Formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.InputNome {
+    margin-top: 30px !important;
+    margin: 10px;
+    width: 637.593px;
+    height: 50.788px;
+    flex-shrink: 0;
+    border-radius: 7px;
+    background: #EDDECF;
+    font-size: medium;
+}
+
+.InputEmail {
+    width: 637.593px;
+    margin: 10px;
+    height: 50.788px;
+    flex-shrink: 0;
+    border-radius: 7px;
+    background: #EDDECF;
+    font-size: medium;
+}
+
+.Textarea {
+    margin: 10px;
+    width: 637.593px;
+    height: 192.407px;
+    flex-shrink: 0;
+    border-radius: 7px;
+    background: #EDDECF;
+    font-size: 18px;
+}
+
+.buttonInput {
+    margin-top: 20px;
+    width: 183.556px;
+    height: 51.764px;
+    flex-shrink: 0;
+    border-radius: 38px;
+    background: #EDDECF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    color: #4A2600;
+    font-family: "Oleo Script Swash Caps";
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 91.407%;
+    letter-spacing: -2.88px;
+}
+
+.buttonInput:hover {
+    transform: scale(1.1);
+    transition: all 0.5s;
+}

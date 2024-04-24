@@ -1,0 +1,18 @@
+.ContainerForms {
+    height: 1027.39px;
+    background-color: antiquewhite;
+}
+
+.cafeFundo {
+    width: 70vh;
+    transform: rotate(11.482deg);
+    flex-shrink: 0;
+    margin-top: -30vh;
+}
+
+.cafeFundo1 {
+    width: 70vh;
+    flex-shrink: 0;
+    margin-top: -80vh;
+    margin-left: 131vh;
+}
