@@ -1,9 +1,14 @@
+"use client";
+
+
 import Image from "next/image";
+import { motion } from "framer-motion"
 
 export default function Catalago() {
     return (
         <div className="Catalago">
-            <a className="TextButton" href="">CATALAGO</a>
+            <motion.a className="TextButton" href=""
+            >Catálogo</motion.a>
             <Image
                 src="/Catalago.png"
                 width={500}

@@ -5,7 +5,7 @@
     height: 59.601px;
     flex-shrink: 0;
     border-radius: 40px;
-    background: #5D3722;
+    background: #EDDECF;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     flex-direction: row-reverse;
     flex-wrap: nowrap;
@@ -20,23 +20,22 @@
     text-decoration: none;
     width: 164.85px;
     height: 42.229px;
-    margin-left: -7px;
-    margin-top: 15px;
+    margin-left: -13px;
     flex-shrink: 0;
-    color: antiquewhite;
-    font-family: "Lilita One", sans-serif;
-    font-size: 24px;
+    color: #5D3722;
+    font-family: "Oleo Script Swash Caps";
+    font-size: 44px;
     font-style: normal;
     font-weight: 400;
-    line-height: normal;
-    letter-spacing: -0.36px;
+    line-height: 91.407%;
+    letter-spacing: -2.88px;
 }
 
 .LogoCatalago {
     margin-left: -5px;
-    margin-top: 9px;
-    width: 84px;
-    height: 96.549px;
+    margin-top: 5px;
+    width: 94px;
+    height: 106.549px;
     flex-shrink: 0;
 }
 
